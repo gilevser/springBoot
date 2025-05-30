@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 import ru.netology.springBoot.SystemProfile;
 
 @RestController
-@RequestMapping("/")
+@RequestMapping("/profile")
 public class ProfileController {
     private SystemProfile profile;
 
