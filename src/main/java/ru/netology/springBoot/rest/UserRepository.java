@@ -47,4 +47,4 @@ public class UserRepository {
     }
 }
 
-//localhost:8888/authorize?user=sega&password=1234
+//localhost:8080/authorize?user=sega&password=1234

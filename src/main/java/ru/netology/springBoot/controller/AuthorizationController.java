@@ -21,3 +21,6 @@ public class AuthorizationController {
         return service.getAuthorities(user, password);
     }
 }
+
+//Запускаем nginx и SpringBoot
+//http://localhost/signin - заполняем логин и пароль и получаем права доступа.

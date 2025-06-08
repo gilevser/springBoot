@@ -22,6 +22,6 @@ public class HelloController {
     }
     //Invoke-WebRequest -Uri "http://localhost:8080/" -Verbose
     //Invoke-WebRequest -Uri "http://localhost:8080/actuator/health" -Verbose
-    //Invoke-WebRequest -Uri "http://localhost:8888/" -Verbose
+    //Invoke-WebRequest -Uri "http://localhost:8080/" -Verbose
 
 }
